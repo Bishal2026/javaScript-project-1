@@ -82,6 +82,13 @@ html,body{
 
 @media(max-width:600px){
     .panel-top{
-        padding: 0 30px;
+          .panel-top{
+        padding: 0 5px;
+
+    }
+    .box{
+        font-size: 10px;
+    }
+  
     }
 }
